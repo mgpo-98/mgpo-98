@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+개발자가 되고싶은 코린이 입니다~
 <!--
 **mgpo-98/mgpo-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
