@@ -6,6 +6,7 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/> 
 
  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=SQLite&logoColor=ffffff"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=SQLite&logoColor=ffffff"/> 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgpo-98)](https://github.com/mgpo-98/github-readme-stats)
  
  
  ## ⌨️ 개발 교육
