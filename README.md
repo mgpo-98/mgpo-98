@@ -18,7 +18,7 @@
   - 과정 소개 : 풀스택 웹 개발자에게 필요한 프로그래밍 언어(python, django 등)을 활용하여 역량과 프론트엔드/백엔드 SW 개발 기술을 습득과 실무형 맞게 프로잭트 진행 
 
 ## 📈 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgpo-98&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgpo-98&show_icons=true&theme=dark)
  
 <!--
 **mgpo-98/mgpo-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
