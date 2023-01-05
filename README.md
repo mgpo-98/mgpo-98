@@ -18,7 +18,7 @@
  
   #### [멀티캠퍼스](https://event.multicampus.com/bigdatafullstack)
   - 학습 기간 : 2022.07.04 ~ 2022.12.16 (115일, 980시간)
-  - 과정 소개 : 풀스택 웹 개발자에게 필요한 프로그래밍 언어(python, django 등)을 활용하여 역량과 프론트엔드/백엔드 SW 개발 기술을 습득과 실무형 맞게 프로잭트 진행 
+  - 과정 소개 : 풀스택 웹 개발자에게 필요한 프로그래밍 언어(python, django 등)을 활용하여 역량과 프론트엔드/백엔드 SW 개발 기술을 습득과 실무형 맞게 프로잭트 진행 .
 
 ## 📈 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgpo-98&show_icons=true&theme=tokyonight)
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->ㅏ
